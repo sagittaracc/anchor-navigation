@@ -1,5 +1,9 @@
-# anchor-navigation
-
+# Custom anchor navigation
+### Include
+```html
+<script type="text-javascript" src="/path/to/anchor-navigation.js"></script>
+```
+### Usage
 ```js
 navigation('/page.php')
     .anchor("#anchor-1", function(){
